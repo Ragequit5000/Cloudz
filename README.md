@@ -1,5 +1,5 @@
 # Toxinz
-Everything you need about the Cloudz bot
+Everything you need about the Toxinz bot
 
 
 Hi Everyone!
