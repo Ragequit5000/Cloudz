@@ -1,4 +1,4 @@
-# Cloudz
+# Toxinz
 Everything you need about the Cloudz bot
 
 
